@@ -1,1 +1,2 @@
-### Welcome to my solution for Module 2 ###
+# Responsive-Design-Coursera
+### https://www.coursera.org/learn/html-css-javascript-for-web-developers?specialization=ruby-on-rails
